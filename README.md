@@ -2,6 +2,23 @@
 
 [English](#english) | [Türkçe](#türkçe)
 
+## ⚠️ Önemli Uyarı / Important Warning
+
+### 🇹🇷 Türkçe Uyarı
+Bu proje **SADECE EĞİTİM AMAÇLIDIR** ve otomatik hesap oluşturma sürecinin teknik olarak nasıl çalıştığını göstermek için hazırlanmıştır. Bu aracın kullanılması etik değildir ve Cursor'un hizmet şartlarına aykırıdır.
+
+**Cursor'u desteklemek ve en iyi deneyimi yaşamak için lütfen resmi web sitesinden lisans satın alın: [cursor.sh](https://cursor.sh)**
+
+Bu projenin amacı:
+- Eğitim ve öğrenme
+- Teknik süreçleri anlama
+- Otomasyon mantığını kavrama
+
+Bu projenin amacı **KESİNLİKLE**:
+- Cursor'u ücretsiz kullanmak
+- Hizmet şartlarını ihlal etmek
+- Ticari kazanç elde etmek **DEĞİLDİR**
+
 ## Türkçe
 
 Bu script, Cursor için otomatik hesap oluşturma işlemini gerçekleştirir. Ubuntu ve türevi Linux sistemlerde test edilmiş ve çalışır durumdadır.
@@ -99,3 +116,18 @@ To use multiple threads:
 The script creates two files:
 - `hesaplar_[date].csv`: Contains email, password, and token information
 - `tokenler_[date].csv`: Contains only token information 
+
+### 🇬🇧 English Warning
+This project is **FOR EDUCATIONAL PURPOSES ONLY** and is designed to demonstrate how the automated account creation process works technically. Using this tool is unethical and violates Cursor's terms of service.
+
+**To support Cursor and get the best experience, please purchase a license from the official website: [cursor.sh](https://cursor.sh)**
+
+The purpose of this project is:
+- Education and learning
+- Understanding technical processes
+- Comprehending automation logic
+
+This project is **ABSOLUTELY NOT** intended for:
+- Using Cursor for free
+- Violating terms of service
+- Commercial gain 
